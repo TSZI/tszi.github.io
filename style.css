@@ -36,9 +36,9 @@ header.startup h1 {
 }
 
 .btn {
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
-  border-radius: 250px;
+  border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -56,10 +56,3 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-
-#mc-embedded-subscribe-form {
-  text-align: center !important;
-  padding: 10px 0 10px 0 !important;
-  margin-top: -50px;
-}
-  
